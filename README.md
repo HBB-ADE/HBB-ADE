@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HBB-ADE
+- 👋 Hi, I’m @hbb-ade
 - 👀 I’m interested in Coding and DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
